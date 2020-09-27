@@ -1,6 +1,7 @@
 import random
 min = 1
 max = 6
+min=!max
 
 roll_again = "yes"
 
